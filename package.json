@@ -1,0 +1,36 @@
+{
+    "name": "burb-lite",
+    "displayName": "Burb Lite",
+    "description": "A really light theme",
+    "version": "1.0.0",
+    "publisher": "594b4b",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/594B4B/burb-lite"
+    },
+    "keywords": [
+        "theme",
+        "light theme",
+        "594b4b",
+        "burb",
+        "burb light",
+        "burb lite",
+        "burb theme",
+        "burb light theme",
+        "burb lite theme"
+    ],
+    "engines": {
+        "vscode": "^1.71.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "images/burb-lite.png",
+    "contributes": {
+        "themes": [{
+            "label": "Burb Lite",
+            "uiTheme": "vs",
+            "path": "./themes/Burb Lite-color-theme.json"
+        }]
+    }
+}
