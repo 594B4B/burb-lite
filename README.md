@@ -2,7 +2,7 @@
 
 ## Why you should have the burb lite theme:
  - Extremely simple
- - Extremely light
+ - Extremely lit
  - Burb
 
 ## Why you should'nt:
